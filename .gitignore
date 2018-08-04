@@ -1,0 +1,7 @@
+# node modules and compiled code
+dist/
+node_modules/
+
+# vscode
+.vscode
+
